@@ -1,16 +1,30 @@
 
 ![Header](https://i.pinimg.com/564x/4b/5f/74/4b5f746744e9aeea98f430c5afcc50c5.jpg "Header")
 
-## TUGAS LAPORAN PRATIKUM💻!  
-<b> LAPORAN PRAKTIKUM OBJECT ORIENTED PROGRAMMING </b>
+
+
+## TUGAS LAPORAN PRATIKUM!  [![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)[![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
+
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+
+[![forthebadge made-with-rust](http://ForTheBadge.com/images/badges/made-with-rust.svg)](https://www.rust-lang.org/)
+                            [![GitHub forks](https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/network/)
+
+                            [![GitHub version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)](https://github.com/Naereen/StrapDown.js)
+                            
+
+<b> LAPORAN PRAKTIKUM PEMOGRAMAN BERORIENTASI OBJEK </b>
+
+
+
 
 ## Tentang
 
-Di README Kali Ini Saya Akan Menampilkan Hasil atau Analisa Dari Hasil Praktikum Yang Saya Lakukan
+Penjelasan dan Analisa Dari Hasil Praktikum Yang telah dilakukan
 
 ## Bahasa Pemograman & Compiler
 
-Dalam Praktikum Kali ini Bahasa Pemograman Yang Digunakan Ialah Bahasa Pemograman Java dan Menggunakan Aplikasi Netbeans IDE Untuk Compiler nya
+Bahasa Pemograman Yang Digunakan dalam praktikum adalah Bahasa Pemograman Java dengan Menggunakan Aplikasi Netbeans IDE Untuk Compiler nya
 
 <p>
   <img src="https://static.vecteezy.com/system/resources/previews/022/101/050/original/java-logo-transparent-free-png.png" width="100px" />
