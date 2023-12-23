@@ -1,5 +1,5 @@
 
-![REZA YASA PUTRA-22343070](https://github.com/Rezayasaputra29/Tugas-Prak-PBO/blob/main/gambar%20readme/images.jpeg?raw=true)
+![alt text](https://github.com/Rezayasaputra29/Tugas-Prak-PBO/blob/main/gambar%20readme/machine-code-languages-on-blue-600nw-1680857539.webp?raw=true)
 
 
 ## TUGAS LAPORAN PRATIKUM!  [![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)[![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
