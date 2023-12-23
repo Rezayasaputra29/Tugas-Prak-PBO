@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/Rezayasaputra29/Tugas-Prak-PBO/blob/main/gambar%20readme/images.jpeg?raw=true)
+![REZA YASA PUTRA-22343070](https://github.com/Rezayasaputra29/Tugas-Prak-PBO/blob/main/gambar%20readme/images.jpeg?raw=true)
 
 
 ## TUGAS LAPORAN PRATIKUM!  [![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)[![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
@@ -12,14 +12,13 @@
                             [![GitHub version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)](https://github.com/Naereen/StrapDown.js)
                             
 
+
 <b> LAPORAN PRAKTIKUM PEMOGRAMAN BERORIENTASI OBJEK </b>
 
 
+## Materi
 
-
-## Tentang
-
-Penjelasan dan Analisa Dari Hasil Praktikum Yang telah dilakukan
+Penjelasan dan Analisa Dari Hasil Praktikum PBO Yang telah dilakukan
 
 ## Bahasa Pemograman & Compiler
 
@@ -39,58 +38,61 @@ Bahasa Pemograman Yang Digunakan dalam praktikum adalah Bahasa Pemograman Java d
     <b> Latihan 1</b>
     <p> Program ini adalah program sederhana dalam bahasa pemrograman Java yang mencetak teks "Hello World!" ke layar beberapa kali. Berikut adalah penjelasan singkatnya:</p>
     
-    1. Program dimulai dengan mendefinisikan paket (`package`) di dalam Java, dalam hal ini paket adalah "com.mycompany.hello.java".
-    
-    2. Kemudian, program mendefinisikan sebuah kelas Java bernama `HelloJava`. Kelas ini adalah kelas utama yang akan dieksekusi saat program dijalankan.
-    
-    3. Di dalam kelas `HelloJava`, ada metode `main` yang merupakan titik masuk utama program. Metode ini menerima argumen dalam bentuk array `args` (walaupun dalam program ini tidak digunakan 
-  
-    4. Di dalam metode `main`, terdapat perintah `System.out.println("Hello World!");` yang mencetak teks "Hello World!" ke layar sebanyak enam kali.
-      Jadi, program ini hanya mencetak pesan "Hello World!" ke layar sebanyak enam kali saat dijalankan
+    1. Pengembangan program dimulai dengan menetapkan paket (`package`) di dalam bahasa pemrograman Java, di mana paket yang digunakan adalah "com.mycompany.hello.java".
+
+    2. Selanjutnya, program mendefinisikan sebuah kelas Java yang diberi nama `HelloJava`. Kelas ini berperan sebagai kelas utama yang akan dieksekusi pada saat menjalankan program.
+
+    3. Dalam struktur kelas `HelloJava`, terdapat metode utama yang disebut `main`. Metode ini berfungsi sebagai titik masuk utama program dan memiliki kemampuan menerima argumen dalam bentuk array 
+    `args`, meskipun pada program ini, argumen tersebut tidak digunakan.
+
+    4. Di dalam badan metode `main`, ditemui perintah `System.out.println("Hello World!");` yang berfungsi untuk mencetak teks "Hello World!" ke layar sebanyak enam kali. Dengan demikian, program ini 
+    akan mencetak pesan tersebut sebanyak enam kali ketika dieksekusi.
    <p>
         <b> Tugas 1 </b>
-        <p>Program ini adalah program sederhana dalam bahasa pemrograman Java yang mencetak pesan selamat datang ke layar. Berikut adalah penjelasan singkatnya:
+        <p>Program ini merupakan aplikasi sederhana yang ditulis dalam bahasa pemrograman Java dengan tujuan mencetak pesan selamat datang ke layar. Berikut adalah penjelasan singkatnya:
       
-      1. Program dimulai dengan mendefinisikan paket (`package`) di dalam Java, dalam hal ini paket adalah "com.mycompany.nama".
-     
-      2. Kemudian, program mendefinisikan sebuah kelas Java bernama `Nama`. Kelas ini adalah kelas utama yang akan dieksekusi saat program dijalankan.
-  
-      3. Di dalam kelas `Nama`, ada metode `main` yang merupakan titik masuk utama program. Metode ini menerima argumen dalam bentuk array `args` (walaupun dalam program ini tidak digunakan).
-      
-      4. Di dalam metode `main`, terdapat dua perintah `System.out.println()` yang mencetak pesan-pesan berikut ke layar:
-           - "Welcome to Java Programming Raden Galuh Garhadi Cakranata!"
-           - "Have A Great Activity"
-        Jadi, program ini mencetak dua pesan selamat datang ke layar saat dijalankan. Pesan tersebut adalah "Welcome to Java Programming Raden Galuh Garhadi Cakranata!" dan "Have A Great Activity".
+      1. Pengembangan program dimulai dengan menetapkan paket (`package`) dalam bahasa pemrograman Java, di mana pada kasus ini, paket yang digunakan adalah "com.mycompany.nama".
+
+      2. Selanjutnya, program mendefinisikan kelas Java yang bernama `Nama`. Kelas ini berperan sebagai kelas utama yang akan dijalankan saat program dieksekusi.
+
+      3. Dalam kelas `Nama`, terdapat metode utama yang disebut `main`. Meskipun metode ini menerima argumen dalam bentuk array `args`, namun dalam program ini, argumen tersebut tidak digunakan.
+
+      4. Di dalam tubuh metode `main`, terdapat dua perintah `System.out.println()` yang berfungsi untuk mencetak pesan-pesan berikut ke layar:
+        - "Welcome to Java Programming Raden Galuh Garhadi Cakranata!"
+        - "Have A Great Activity"
+         Dengan demikian, saat program dijalankan, dua pesan selamat datang akan dicetak ke layar. Pesan-pesan tersebut adalah "Welcome to Java Programming Raden Galuh Garhadi Cakranata!" dan "Have A 
+      Great Activity".
    </p>
       <p>
         <b> Tugas 2 </b>
-        <p>Program ini adalah program Java yang mencetak beberapa baris teks ke layar. Program ini tampaknya mencetak potongan puisi atau teks yang menggambarkan pohon. Berikut adalah penjelasan singkatnya:
+        <p>Program Java ini dirancang untuk mencetak beberapa baris teks yang menggambarkan pohon. Potongan puisi atau teks tersebut kemungkinan besar berisi deskripsi atau visualisasi mengenai pohon. Program ini mungkin menciptakan sebuah representasi visual atau deskriptif tentang keindahan atau keberlanjutan kehidupan, dengan pohon sebagai simbol alam dan pertumbuhan. Berikut adalah penjelasan singkatnya:
       
-      1. Program dimulai dengan mendefinisikan paket (`package`) Java, dalam hal ini paket adalah "com.mycompany.thetree".
-     
-      2. Kemudian, program mendefinisikan sebuah kelas Java bernama `TheTree`.
-  
-      3. Di dalam kelas `TheTree`, ada metode `main` yang merupakan titik masuk utama program.
+    1. Program dimulai dengan menetapkan paket (`package`) Java, di mana paket yang digunakan adalah "com.mycompany.thetree".
 
-      4. Metode ini menerima argumen dalam bentuk array `args` (walaupun dalam program ini tidak digunakan).
-      
-      5. Di dalam metode `main`, terdapat empat perintah `System.out.println(...);` yang mencetak empat baris teks berbeda ke layar. Teks yang dicetak tampaknya adalah bagian dari puisi atau teks deskriptif yang menggambarkan sebuah pohon.
+    2. Selanjutnya, program mendefinisikan kelas Java yang diberi nama `TheTree`.
 
-        Jadi, program ini mencetak dua pesan selamat datang ke layar saat dijalankan. Pesan tersebut adalah "Welcome to Java Programming Raden Galuh Garhadi Cakranata!" dan "Have A Great Activity".
+    3. Dalam struktur kelas `TheTree`, terdapat metode utama yang disebut `main`, yang berfungsi sebagai titik masuk utama program.
+
+    4. Meskipun metode `main` menerima argumen dalam bentuk array `args`, namun dalam program ini, argumen tersebut tidak digunakan.
+
+    5. Di dalam badan metode `main`, terdapat empat perintah `System.out.println(...);` yang bertugas mencetak empat baris teks yang berbeda ke layar. Teks yang dicetak diduga merupakan bagian dari puisi 
+    atau deskripsi yang menggambarkan sebuah pohon.
+
+    Dengan demikian, saat program dijalankan, empat baris teks yang menciptakan suasana puisi atau deskripsi tentang pohon akan dicetak ke layar.
    </p>
          <p>
         <b> Tugas 3 </b>
-        <p>Program ini adalah program Java sederhana yang mencetak pesan-pesan ke layar yang menggambarkan kesan pertama seorang pembelajar saat mengikuti perkuliahan praktikum OOP (Object-Oriented Programming). Berikut adalah penjelasan singkatnya:
+        <p>Program Java ini merupakan sebuah program sederhana yang memiliki tujuan untuk mencetak pesan-pesan ke layar yang menggambarkan kesan pertama seorang pembelajar saat mengikuti perkuliahan praktikum OOP (Object-Oriented Programming). Potongan-potongan teks yang dicetak mungkin mencerminkan pengalaman atau perasaan awal seorang pembelajar saat belajar tentang konsep dan praktik OOP. Berikut adalah penjelasan singkatnya:
 
-      1. Program dimulai dengan mendefinisikan paket (`package`) di dalam Java, dalam hal ini paket adalah "com.mycompany.kesanpembelajaran".
-     
-      2. Kemudian, program mendefinisikan sebuah kelas Java bernama `KesanPembelajaran`. Kelas ini adalah kelas utama yang akan dieksekusi saat program dijalankan.
-  
-      3. Di dalam kelas `KesanPembelajaran`, ada metode `main` yang merupakan titik masuk utama program. Metode ini menerima argumen dalam bentuk array `args` (walaupun dalam program ini tidak digunakan).
+     1. Awal program ditandai dengan pendefinisian paket (`package`) Java, yang dalam konteks ini diberi nama "com.mycompany.kesanpembelajaran".
 
-      4. Di dalam metode `main`, program mencetak sejumlah pesan ke layar dengan menggunakan perintah `System.out.println()`. Pesan-pesan tersebut menggambarkan kesan pertama pembelajar saat mengikuti perkuliahan praktikum OOP. Pesan-pesan tersebut mencakup rasa antusiasme, materi yang diajarkan, konsep dasar OOP yang dipelajari, pengalaman praktis dalam membangun program dengan paradigma OOP, dan apresiasi terhadap dosen yang mengajar.
+     2. Selanjutnya, program menetapkan kelas Java utama yang bernama `KesanPembelajaran`. Kelas ini berfungsi sebagai titik awal eksekusi saat program dijalankan.
 
-        Jadi, program ini digunakan untuk mencatat dan membagikan kesan pertama seorang pembelajar dalam mengikuti perkuliahan praktikum OOP.
+    3. Dalam kerangka kelas `KesanPembelajaran`, terdapat metode utama yaitu `main`, yang berperan sebagai titik masuk utama program. Meskipun metode ini menerima argumen dalam bentuk array `args`, dalam        program ini argumen tersebut tidak digunakan.
+
+    4.Di dalam badan metode `main`, program mencetak serangkaian pesan ke layar dengan menggunakan perintah `System.out.println()`. Pesan-pesan tersebut merefleksikan kesan pertama seorang pembelajar           saat mengikuti perkuliahan praktikum OOP. Termasuk dalam pesan-pesan tersebut adalah ekspresi antusiasme, tanggapan terhadap materi yang diajarkan, pemahaman konsep dasar OOP, pengalaman praktis          dalam pembangunan program berparadigma OOP, dan penghargaan terhadap dosen yang memberikan pengajaran.
+
+      Dengan demikian, tujuan dari program ini adalah untuk mencatat dan berbagi kesan awal seorang pembelajar dalam menjalani perkuliahan praktikum OOP.
    </p>
    <p>
 <b> 2. JOBSHEET 2</b>
@@ -157,113 +159,111 @@ Bahasa Pemograman Yang Digunakan dalam praktikum adalah Bahasa Pemograman Java d
    <b> 3. JOBSHEET 3</b>
   <p>
     <b> Latihan 1</b>
-    <p> Program ini adalah program Java yang mendemonstrasikan berbagai tipe data primitif dan cara mencetak nilai-nilai variabelnya ke layar. Berikut penjelasan singkatnya:</p>
+    <p> Program ini merupakan contoh program Java yang menunjukkan penggunaan berbagai tipe data primitif dan cara mencetak nilai-nilai variabelnya ke layar. Program semacam ini biasanya bertujuan untuk memberikan pemahaman dasar tentang tipe data primitif yang tersedia dalam bahasa pemrograman Java dan cara menggunakannya. Berikut penjelasan singkatnya:</p>
     
-    1. Program dimulai dengan mendefinisikan paket (package) di dalam Java, dalam hal ini paket adalah "com.mycompany.latihanstring".
-    
-    2. Kemudian, program mendefinisikan sebuah kelas Java bernama Latihanstring. Kelas ini adalah kelas utama yang akan dieksekusi saat program dijalankan.
-    
-    3. Di dalam metode main, program mendeklarasikan beberapa variabel dengan tipe data primitif berikut:
+     1. Program diawali dengan mendefinisikan paket (package) dalam Java, di mana paket yang digunakan adalah "com.mycompany.latihanstring".
 
-      - int a = 10;: Variabel a dengan tipe data int (integer) dan diberi nilai 10.
-      - short s = 2;: Variabel s dengan tipe data short dan diberi nilai 2.
-      - byte b = 6;: Variabel b dengan tipe data byte dan diberi nilai 6.
-      - long l = 125362133223l;: Variabel l dengan tipe data long dan diberi nilai yang besar, dengan menambahkan huruf "l" pada akhir nilai untuk menunjukkan bahwa ini adalah long.
-      - float f = 65.20298f;: Variabel f dengan tipe data float dan diberi nilai desimal, dengan menambahkan huruf "f" pada akhir nilai untuk menunjukkan bahwa ini adalah float.
-      - double d = 876.765d;: Variabel d dengan tipe data double dan diberi nilai desimal, dengan menambahkan huruf "d" pada akhir nilai untuk menunjukkan bahwa ini adalah double.
+     2. Selanjutnya, program menggambarkan kelas Java yang bernama `Latihanstring`. Kelas ini menjadi kelas utama yang akan dieksekusi saat program dijalankan.
 
-    4. Program mencetak nilai-nilai variabel ini ke layar menggunakan System.out.println(). Setiap nilai variabel ditampilkan dengan pesan teks yang menjelaskan jenis variabelnya.
-  
-     Jadi, program ini digunakan untuk memperkenalkan dan mencetak nilai dari berbagai tipe data primitif dalam bahasa pemrograman Java, seperti int, short, byte, long, float, dan double.
+     3. Dalam metode `main`, program menginisialisasi beberapa variabel dengan tipe data primitif sebagai berikut:
+
+     - `int a = 10;`: Variabel `a` dengan tipe data int (integer) diberi nilai 10.
+     - `short s = 2;`: Variabel `s` dengan tipe data short diberi nilai 2.
+     - `byte b = 6;`: Variabel `b` dengan tipe data byte diberi nilai 6.
+     - `long l = 125362133223L;`: Variabel `l` dengan tipe data long diberi nilai besar, ditandai dengan huruf "L" pada akhir nilai untuk menunjukkan tipe data long.
+     - `float f = 65.20298f;`: Variabel `f` dengan tipe data float diberi nilai desimal, ditandai dengan huruf "f" pada akhir nilai untuk menunjukkan tipe data float.
+     - `double d = 876.765d;`: Variabel `d` dengan tipe data double diberi nilai desimal, ditandai dengan huruf "d" pada akhir nilai untuk menunjukkan tipe data double.
+
+     4. Program mencetak nilai-nilai variabel tersebut ke layar menggunakan `System.out.println()`. Setiap nilai variabel disertai dengan pesan teks yang menjelaskan jenis variabelnya.
+
+    Program ini bertujuan untuk memberikan pemahaman dan mencetak nilai dari berbagai tipe data primitif dalam bahasa pemrograman Java, termasuk int, short, byte, long, float, dan double.
    <p>
         <b> Latihan 2 </b>
         <p>Program di atas adalah program Java yang mendeklarasikan dan menginisialisasi berbagai tipe data primitif, kemudian mencetak nilai-nilai variabelnya ke layar. Berikut penjelasan singkatnya:
       
-      1. Program dimulai dengan mendefinisikan paket (package) di dalam Java, dalam hal ini paket adalah "com.mycompany.application".
-     
-      2. Kemudian, program mendefinisikan sebuah kelas Java bernama Application. Kelas ini adalah kelas utama yang akan dieksekusi saat program dijalankan.
-  
-      3. Di dalam metode main, program mendeklarasikan beberapa variabel dengan berbagai tipe data primitif berikut:
+      1. Awal program menetapkan paket (package) di dalam Java dengan menggunakan paket "com.mycompany.application".
 
-          - int myNumber = 88;: Variabel myNumber dengan tipe data int (integer) dan diberi nilai 88.
-          - short myShort = 874;: Variabel myShort dengan tipe data short dan diberi nilai 874.
-          - long myLong = 9797;: Variabel myLong dengan tipe data long dan diberi nilai 9797.
-          - double myDouble = 72.97;: Variabel myDouble dengan tipe data double dan diberi nilai 72.97.
-          - float myFloat = 324.3f;: Variabel myFloat dengan tipe data float dan diberi nilai 324.3, dengan menambahkan huruf "f" pada akhir nilai untuk menunjukkan bahwa ini adalah float.
-          - char myChar = 'y';: Variabel myChar dengan tipe data char (karakter) dan diberi nilai 'y'.
-          - boolean myBoolean = false;: Variabel myBoolean dengan tipe data boolean dan diberi nilai false.
-          - byte myByte = 127;: Variabel myByte dengan tipe data byte dan diberi nilai 127.
-      
-      4. Program mencetak nilai-nilai variabel ini ke layar menggunakan System.out.println(). Setiap nilai variabel ditampilkan di layar sebagai output.
+      2. Selanjutnya, program mendefinisikan kelas Java bernama `Application`. Kelas ini menjadi kelas utama yang akan dieksekusi saat program dijalankan.
 
-       Jadi, program ini digunakan untuk mendeklarasikan, menginisialisasi, dan mencetak nilai-nilai berbagai tipe data primitif dalam bahasa pemrograman Java, termasuk int, short, long, double, float, char, boolean, dan byte.
+      3. Dalam metode `main`, program mendeklarasikan beberapa variabel dengan berbagai tipe data primitif sebagai berikut:
+
+       - `int myNumber = 88;`: Variabel `myNumber` dengan tipe data int (integer) diberi nilai 88.
+       - `short myShort = 874;`: Variabel `myShort` dengan tipe data short diberi nilai 874.
+       - `long myLong = 9797;`: Variabel `myLong` dengan tipe data long diberi nilai 9797.
+       - `double myDouble = 72.97;`: Variabel `myDouble` dengan tipe data double diberi nilai 72.97.
+       - `float myFloat = 324.3f;`: Variabel `myFloat` dengan tipe data float diberi nilai 324.3, dengan menambahkan huruf "f" pada akhir nilai untuk menunjukkan tipe data float.
+       - `char myChar = 'y';`: Variabel `myChar` dengan tipe data char (karakter) diberi nilai 'y'.
+       - `boolean myBoolean = false;`: Variabel `myBoolean` dengan tipe data boolean diberi nilai false.
+       - `byte myByte = 127;`: Variabel `myByte` dengan tipe data byte diberi nilai 127.
+
+     4. Program mencetak nilai-nilai variabel tersebut ke layar menggunakan `System.out.println()`. Setiap nilai variabel ditampilkan sebagai output pada layar.
+
+      Program ini berguna untuk mendeklarasikan, menginisialisasi, dan mencetak nilai-nilai dari berbagai tipe data primitif dalam bahasa pemrograman Java, termasuk int, short, long, double, float, char,       boolean, dan byte.
    </p>
       <p>
         <b> Latihan 3</b>
-        <p>Program ini adalah program Java yang mendeklarasikan dan menginisialisasi dua variabel dengan tipe data yang berbeda, yaitu int dan char, kemudian mencetak nilai-nilai variabelnya ke layar. Berikut penjelasan singkatnya:
+        <p>Program ini merupakan sebuah program Java yang melakukan deklarasi dan inisialisasi dua variabel dengan tipe data yang berbeda, yaitu int dan char. Setelah itu, program mencetak nilai-nilai dari kedua variabel tersebut ke layar. Berikut adalah penjelasan singkatnya:
       
-      1. Program dimulai dengan mendefinisikan paket (package) di dalam Java, dalam hal ini paket adalah "com.mycompany.latihanvalue".
-     
-      2. Kemudian, program mendefinisikan sebuah kelas Java bernama Latihanvalue. Kelas ini adalah kelas utama yang akan dieksekusi saat program dijalankan.
-      
-      3. Di dalam metode main, program mendeklarasikan dua variabel:
-      
-            - int value = 10;: Variabel value dengan tipe data int (integer) dan diberi nilai 10.
-            - char x = 'A';: Variabel x dengan tipe data char (karakter) dan diberi nilai 'A'.
+     1. Awal program mengawali dengan mendefinisikan paket (package) di dalam Java, yang dalam kasus ini disebut "com.mycompany.latihanvalue".
 
-      4. Program mencetak nilai variabel value ke layar menggunakan System.out.println(). Hasil cetak adalah nilai variabel value, yaitu 10.
-      
-      5. Program mencetak nilai variabel x ke layar dengan pesan teks yang menjelaskan nilai variabel tersebut. Hasil cetak adalah "The value of X = A" karena nilai x adalah 'A'.
+    2. Selanjutnya, program menentukan kelas Java bernama `Latihanvalue`. Kelas ini berperan sebagai kelas utama yang akan dieksekusi saat program dijalankan.
 
-        Jadi, program ini digunakan untuk mendeklarasikan, menginisialisasi, dan mencetak nilai dari dua variabel dengan tipe data berbeda, yaitu int dan char, ke layar.
+    3. Dalam metode `main`, program mendeklarasikan dua variabel sebagai berikut:
+       - `int value = 10;`: Variabel `value` diberi tipe data int (integer) dengan nilai awal 10.
+       - `char x = 'A';`: Variabel `x` diberi tipe data char (karakter) dengan nilai awal 'A'.
+
+    4. Program mencetak nilai dari variabel `value` ke layar menggunakan `System.out.println()`. Output yang dihasilkan adalah nilai variabel `value`, yaitu 10.
+
+    5. Selanjutnya, program mencetak nilai dari variabel `x` ke layar dengan menyertakan pesan teks yang menjelaskan nilai variabel tersebut. Output yang dihasilkan adalah "The value of X = A" karena     
+       nilai dari `x` adalah 'A'.
+
+    Dengan demikian, program ini berguna untuk mendeklarasikan, menginisialisasi, dan mencetak nilai dari dua variabel dengan tipe data berbeda (int dan char) ke layar.
    </p>
    <p>
         <b> Tugas 1 </b>
         <p>Program ini adalah program Java yang mendeklarasikan dan menginisialisasi beberapa variabel dengan berbagai tipe data, kemudian mencetak nilai-nilai variabelnya ke layar. Berikut penjelasan singkatnya:
       
-      1. Program dimulai dengan mendefinisikan paket (package) di dalam Java, dalam hal ini paket adalah "com.mycompany.tugasinisialisasi".
-     
-      2. Kemudian, program mendefinisikan sebuah kelas Java bernama TugasInisialisasi. Kelas ini adalah kelas utama yang akan dieksekusi saat program dijalankan.
-      
-      3. Di dalam metode main, program mendeklarasikan beberapa variabel dengan berbagai tipe data:
+     1. Program diawali dengan mendefinisikan paket (package) dalam bahasa pemrograman Java, yang pada kasus ini disebut "com.mycompany.tugasinisialisasi".
 
-            - int number = 10;: Variabel number dengan tipe data int (integer) dan diberi nilai 10.
-            - char letter = 'a';: Variabel letter dengan tipe data char (karakter) dan diberi nilai 'a'.
-            - boolean result = true;: Variabel result dengan tipe data boolean dan diberi nilai true.
-            - String str = "hello";: Variabel str dengan tipe data String (string) dan diberi nilai "hello".
+     2. Selanjutnya, program menentukan kelas Java bernama `TugasInisialisasi`. Kelas ini berperan sebagai kelas utama yang akan dieksekusi saat program dijalankan.
 
-      4. Program mencetak nilai-nilai variabel ini ke layar menggunakan System.out.println(). Setiap nilai variabel ditampilkan di layar bersama dengan pesan teks yang menjelaskan jenis variabelnya.
+     3. Dalam metode `main`, program mendeklarasikan beberapa variabel dengan berbagai tipe data sebagai berikut:
+         - `int number = 10;`: Variabel `number` diberi tipe data int (integer) dengan nilai awal 10.
+         - `char letter = 'a';`: Variabel `letter` diberi tipe data char (karakter) dengan nilai awal 'a'.
+         - `boolean result = true;`: Variabel `result` diberi tipe data boolean dengan nilai awal true.
+         - `String str = "hello";`: Variabel `str` diberi tipe data String (string) dengan nilai awal "hello".
 
-        Jadi, program ini digunakan untuk mendeklarasikan, menginisialisasi, dan mencetak nilai dari beberapa variabel dengan berbagai tipe data, termasuk int, char, boolean, dan String, ke layar.
+     4. Program mencetak nilai-nilai variabel ini ke layar menggunakan `System.out.println()`. Setiap nilai variabel ditampilkan di layar bersama dengan pesan teks yang menjelaskan jenis variabelnya.
+
+     Dengan demikian, tujuan dari program ini adalah untuk mendeklarasikan, menginisialisasi, dan mencetak nilai dari beberapa variabel dengan berbagai tipe data, seperti int, char, boolean, dan String, 
+     ke layar.
    </p>
     <b> 4. JOBSHEET 4</b>
   <p>
     <b> Latihan 1</b>
-    <p> Program ini adalah program Java yang mendemonstrasikan operasi aritmatika dasar pada tipe data numerik, seperti int dan double, dan juga menunjukkan hasil penggunaan operator aritmatika. Berikut penjelasan singkatnya:</p>
+    <p> Program ini merupakan sebuah program Java yang bertujuan untuk mendemonstrasikan operasi aritmatika dasar pada tipe data numerik, seperti int dan double. Selain itu, program juga menunjukkan hasil dari penggunaan operator aritmatika. Berikut adalah penjelasan singkatnya::</p>
     
-    1. Program dimulai dengan mendefinisikan paket (package) di dalam Java, dalam hal ini paket adalah "com.mycompany.aritmatikademo".
-    
-    2. Kemudian, program mendefinisikan sebuah kelas Java bernama AritmatikaDemo. Kelas ini adalah kelas utama yang akan dieksekusi saat program dijalankan.
-    
-    3. Di dalam metode main, program mendeklarasikan beberapa variabel dengan berbagai tipe data numerik:
+    1. Program diawali dengan mendefinisikan paket (package) dalam bahasa pemrograman Java, dengan nama paket "com.mycompany.aritmatikademo".
 
-      -int i = 10;: Variabel i dengan tipe data int (integer) dan diberi nilai 10.
-      - int j = 3;: Variabel j dengan tipe data int dan diberi nilai 3.
-      - double x = 27.475;: Variabel x dengan tipe data double dan diberi nilai 27.475.
-      - double y = 7.22;: Variabel y dengan tipe data double dan diberi nilai 7.22.
+    2. Selanjutnya, program menetapkan sebuah kelas Java bernama `AritmatikaDemo`. Kelas ini berperan sebagai kelas utama yang akan dieksekusi saat program dijalankan.
 
-    4. Program mencetak nilai-nilai variabel ini ke layar menggunakan System.out.println(). Setiap nilai variabel ditampilkan di layar bersama dengan pesan teks yang menjelaskan jenis variabelnya.
-    
-    5. Program kemudian melakukan operasi aritmatika dengan variabel-variabel tersebut:
+    3. Dalam metode `main`, program mendeklarasikan beberapa variabel dengan berbagai tipe data numerik:
+       - `int i = 10;`: Variabel `i` dengan tipe data int (integer) dan diberi nilai 10.
+       - `int j = 3;`: Variabel `j` dengan tipe data int dan diberi nilai 3.
+       - `double x = 27.475;`: Variabel `x` dengan tipe data double dan diberi nilai 27.475.
+       - `double y = 7.22;`: Variabel `y` dengan tipe data double dan diberi nilai 7.22.
 
-      - Melakukan penjumlahan dan pengurangan antara i dan j.
-      - Melakukan perkalian antara i dan j, serta x dan y.
-      - Melakukan pembagian antara i dan j, serta x dan y. Perlu dicatat bahwa untuk pembagian i / j, kita melakukan casting ke (float) untuk menghasilkan hasil float.
-      - Menghitung hasil modulus dari pembagian antara i dan j, serta x dan y.
+    4. Program mencetak nilai-nilai variabel ini ke layar menggunakan `System.out.println()`. Setiap nilai variabel ditampilkan di layar bersama dengan pesan teks yang menjelaskan jenis variabelnya.
+
+    5. Selanjutnya, program melakukan operasi aritmatika dengan variabel-variabel tersebut:
+       - Melakukan penjumlahan dan pengurangan antara `i` dan `j`.
+       - Melakukan perkalian antara `i` dan `j`, serta `x` dan `y`.
+       - Melakukan pembagian antara `i` dan `j`, serta `x` dan `y`. Diperlukan casting ke (float) untuk menghasilkan hasil float pada pembagian `i / j`.
+       - Menghitung hasil modulus dari pembagian `i` dan `j`, serta `x` dan `y`.
 
     6. Hasil-hasil operasi aritmatika ini kemudian dicetak ke layar dengan pesan yang sesuai.
-  
-     Jadi, program ini digunakan untuk mendemonstrasikan operasi aritmatika pada tipe data numerik seperti int dan double, serta menunjukkan hasil dari operasi-operasi tersebut.
+
+    Dengan demikian, tujuan dari program ini adalah untuk mendemonstrasikan operasi aritmatika pada tipe data numerik seperti int dan double, dan menampilkan hasil dari operasi-operasi tersebut.
    <p>
         <b> Latihan 2 </b>
         <p>Program di atas adalah program Java yang mendemonstrasikan operasi relasional (perbandingan) antara variabel-variabel dengan tipe data int. Program ini menunjukkan bagaimana hasil perbandingan dari operasi relasional seperti lebih besar, lebih kecil, lebih besar atau sama dengan, lebih kecil atau sama dengan, sama dengan, dan tidak sama dengan di antara variabel-variabel tersebut. Berikut penjelasan singkatnya:
@@ -443,35 +443,36 @@ Bahasa Pemograman Yang Digunakan dalam praktikum adalah Bahasa Pemograman Java d
    </p> 
     <p>
         <b> Tugas 2 </b>
-        <p>Program di atas adalah program Java yang digunakan untuk menentukan nilai terbesar di antara tiga angka yang telah didefinisikan sebelumnya, yaitu number1, number2, dan number3. Berikut penjelasan singkatnya:
+        <p>Program tersebut merupakan sebuah program Java yang bertujuan untuk menentukan nilai terbesar di antara tiga angka yang telah didefinisikan sebelumnya, yaitu number1, number2, dan number3. Berikut adalah penjelasan singkatnya::
           
-      1. Program dimulai dengan mendefinisikan paket (package) di dalam Java, dalam hal ini paket adalah "com.mycompany.tugasnilaiterbesar".
-     
-      2. Kemudian, program mendefinisikan sebuah kelas Java bernama TugasNilaiTerbesar. Kelas ini adalah kelas utama yang akan dieksekusi saat program dijalankan.
-      
-      3. Di dalam metode main, program mendeklarasikan tiga variabel:
+     1. Program ini diawali dengan mendefinisikan paket (package) dalam Java, yaitu "com.mycompany.tugasnilaiterbesar".
 
-        - int number1 = 10;: Variabel number1 dengan tipe data int dan diberi nilai 10.
-        - int number2 = 23;: Variabel number2 dengan tipe data int dan diberi nilai 23.
-        - int number3 = 5;: Variabel number3 dengan tipe data int dan diberi nilai 5.
-      4. Program menggunakan operator kondisional (ternary operator) untuk menentukan nilai terbesar di antara ketiga angka ini. Operator tersebut adalah:
+    2. Selanjutnya, program mendefinisikan kelas Java utama bernama `TugasNilaiTerbesar`.
 
-        - int max = (number1 > number2) ? ((number1 > number3) ? number1 : number3) : ((number2 > number3) ? number2 : number3);
-        - Operator ini membandingkan number1 dengan number2, dan jika number1 lebih besar dari number2, maka akan membandingkan number1 dengan number3. Jika number1 juga lebih besar dari number3, maka nilai terbesar adalah - number1, dan jika tidak, nilai terbesar adalah number3.
-        - Jika number1 tidak lebih besar dari number2, maka operator akan membandingkan number2 dengan number3. Jika number2 lebih besar dari number3, maka nilai terbesar adalah number2, dan jika tidak, nilai terbesar adalah number3.
+    3. Dalam metode `main`, program mendeklarasikan tiga variabel:
+       - `int number1 = 10;`: Variabel `number1` dengan tipe data int dan nilai 10.
+       - `int number2 = 23;`: Variabel `number2` dengan tipe data int dan nilai 23.
+       - `int number3 = 5;`: Variabel `number3` dengan tipe data int dan nilai 5.
 
-      5. Hasil dari evaluasi kondisi ini akan menentukan nilai terbesar di antara ketiga angka, dan hasilnya disimpan dalam variabel max.
+    4. Program menggunakan operator kondisional (ternary operator) untuk menentukan nilai terbesar di antara ketiga angka dengan rumus:
+       ```java
+       int max = (number1 > number2) ? ((number1 > number3) ? number1 : number3) : ((number2 > number3) ? number2 : number3);
+       ```
+       - Operator ini membandingkan `number1` dengan `number2`. Jika `number1` lebih besar dari `number2`, maka membandingkan `number1` dengan `number3`. Jika `number1` juga lebih besar dari `number3`,            maka nilai terbesar adalah `number1`, dan jika tidak, nilai terbesar adalah `number3`.
+       - Jika `number1` tidak lebih besar dari `number2`, maka membandingkan `number2` dengan `number3`. Jika `number2` lebih besar dari `number3`, maka nilai terbesar adalah `number2`, dan jika tidak,            nilai terbesar adalah `number3`.
 
-      6. Program mencetak nilai dari ketiga variabel number1, number2, dan number3 ke layar menggunakan System.out.println().
+    5. Hasil evaluasi kondisi ini disimpan dalam variabel `max`.
 
-      7. Program juga mencetak nilai terbesar (max) ke layar.
+    6. Program mencetak nilai dari ketiga variabel (`number1`, `number2`, dan `number3`) ke layar menggunakan `System.out.println()`.
 
-        Jadi, program ini digunakan untuk menentukan dan mencetak nilai terbesar di antara tiga angka yang telah didefinisikan sebelumnya. Dalam contoh ini, nilai terbesar di antara 10, 23, dan 5 adalah yang dicetak ke layar.
+    7. Program juga mencetak nilai terbesar (`max`) ke layar.
+
+    Dengan demikian, program ini bertujuan untuk menentukan dan mencetak nilai terbesar di antara tiga angka yang telah didefinisikan sebelumnya. Dalam contoh ini, nilai terbesar di antara 10, 23, dan 5      dicetak ke layar.
    </p> 
          <b> 5. JOBSHEET 5</b>
   <p>
     <b> Latihan 1</b>
-    <p> Program ini adalah sebuah program Java sederhana yang mengambil input dari pengguna untuk nama lengkap, NIM (Nomor Induk Mahasiswa), dan nilai. Berikut adalah penjelasan singkat tentang program ini:</p>
+    <p> Program ini merupakan sebuah program Java sederhana yang dirancang untuk mengambil input dari pengguna terkait dengan tiga informasi utama: nama lengkap, NIM (Nomor Induk Mahasiswa), dan nilai. Berikut adalah penjelasan singkat tentang program tersebut: ini:</p>
     
     1. Program dimulai dengan mendeklarasikan variabel nama, NIM, dan nilai untuk menyimpan input dari pengguna.
     
@@ -488,7 +489,7 @@ Bahasa Pemograman Yang Digunakan dalam praktikum adalah Bahasa Pemograman Java d
      Program ini secara keseluruhan mengilustrasikan cara mengambil input dari pengguna menggunakan kelas Scanner dan mengkonversi input menjadi tipe data yang sesuai untuk kemudian digunakan dalam program.
    <p>
         <b> Latihan 2 </b>
-        <p>Program ini adalah sebuah program Java sederhana yang mengambil input dari pengguna berupa dua angka floating-point, menghitung jumlah dari kedua angka tersebut, dan kemudian mencetak hasilnya. Berikut adalah penjelasan singkat tentang program ini:
+        <p>Program ini merupakan program Java sederhana yang dirancang untuk mengambil input dari pengguna berupa dua angka floating-point, menghitung jumlah dari kedua angka tersebut, dan mencetak hasilnya.PENJELASAN:
       
       1. Program dimulai dengan mendeklarasikan tiga variabel: angka1, angka2, dan jumlah. Variabel angka1 akan digunakan untuk menyimpan angka pertama yang dimasukkan oleh pengguna, angka2 untuk menyimpan angka kedua, dan jumlah untuk menyimpan hasil penjumlahan kedua angka tersebut.
      
@@ -550,7 +551,7 @@ Bahasa Pemograman Yang Digunakan dalam praktikum adalah Bahasa Pemograman Java d
         Program ini mengilustrasikan penggunaan BufferedReader untuk membaca input dari pengguna, mengkonversi input string menjadi tipe data numerik, melakukan operasi matematika dasar, dan mencetak hasilnya.
    </p>
     <b> Latihan 5 </b>
-        <p>Program ini adalah program Java yang mengambil input dari pengguna menggunakan dialog box (JOptionPane) untuk memasukkan nama dan hobi. Setelah mengambil input, program akan menampilkan pesan dialog dengan informasi nama dan hobi yang dimasukkan, serta mencetak pesan ini ke konsol. Berikut adalah penjelasan singkat tentang program ini:
+        <p>Program ini merupakan program Java yang menggunakan dialog box (JOptionPane) untuk mengambil input dari pengguna, berupa nama dan hobi. Setelah mengambil input, program akan menampilkan pesan dialog dengan informasi nama dan hobi yang dimasukkan, serta mencetak pesan ini ke konsol. Berikut adalah penjelasan singkat tentang program ini::
       
       1. Program dimulai dengan mendeklarasikan dua variabel string: name untuk menyimpan nama yang akan dimasukkan oleh pengguna dan hoby untuk menyimpan hobi yang akan dimasukkan oleh pengguna.
      
@@ -568,21 +569,51 @@ Bahasa Pemograman Yang Digunakan dalam praktikum adalah Bahasa Pemograman Java d
    </p>
    <p>
         <b> Tugas 1 ( Scanner ) </b>
-        <p>Program ini adalah program Java yang menggunakan objek Scanner untuk mengambil input dari pengguna berupa tiga kata (string), kemudian mencetak kembali kata-kata tersebut. Berikut adalah penjelasan singkat tentang program ini:
+        <p>Program ini merupakan program Java yang menggunakan objek Scanner untuk mengambil input dari pengguna berupa tiga kata (string), kemudian mencetak kembali kata-kata tersebut. Berikut adalah penjelasan singkat tentang program ini::
           
-      1. Program dimulai dengan mendeklarasikan objek Scanner dengan nama scanner yang akan digunakan untuk mengambil input dari pengguna melalui keyboard.
-     
-      2. Program mencetak pesan "Enter Word1: " untuk meminta pengguna memasukkan kata pertama. Input yang dimasukkan oleh pengguna akan disimpan dalam variabel word1 menggunakan scanner.next().
-      
-      3. Program mencetak pesan "Enter Word2: " untuk meminta pengguna memasukkan kata kedua. Input yang dimasukkan oleh pengguna akan disimpan dalam variabel word2 menggunakan scanner.next().
+    1. Deklarasi Objek Scanner:
+       - Program dimulai dengan mendeklarasikan objek Scanner dengan nama `scanner` yang akan digunakan untuk mengambil input dari pengguna melalui keyboard.
+         ```java
+         Scanner scanner = new Scanner(System.in);
+         ```
 
-      4. Program mencetak pesan "Enter Word3: " untuk meminta pengguna memasukkan kata ketiga. Input yang dimasukkan oleh pengguna akan disimpan dalam variabel word3 menggunakan scanner.next().
+    2. Input Kata Pertama:
+       - Program mencetak pesan "Enter Word1: " untuk meminta pengguna memasukkan kata pertama.
+       - Input yang dimasukkan oleh pengguna akan disimpan dalam variabel `word1` menggunakan `scanner.next()`.
+         ```java
+         System.out.print("Enter Word1: ");
+         String word1 = scanner.next();
+         ```
 
-      5. Setelah mengambil semua kata dari pengguna, program mencetak kembali ketiga kata tersebut dengan menyatukannya dalam satu baris dengan menggunakan System.out.println(word1 + " " + word2 + " " + word3).
+    3. Input Kata Kedua:
+       - Program mencetak pesan "Enter Word2: " untuk meminta pengguna memasukkan kata kedua.
+       - Input yang dimasukkan oleh pengguna akan disimpan dalam variabel `word2` menggunakan `scanner.next()`.
+         ```java
+         System.out.print("Enter Word2: ");
+         String word2 = scanner.next();
+         ```
 
-      6. Terakhir, program menutup objek Scanner dengan scanner.close() untuk menghindari memory leak.
+    4. Input Kata Ketiga:
+       - Program mencetak pesan "Enter Word3: " untuk meminta pengguna memasukkan kata ketiga.
+       - Input yang dimasukkan oleh pengguna akan disimpan dalam variabel `word3` menggunakan `scanner.next()`.
+         ```java
+         System.out.print("Enter Word3: ");
+         String word3 = scanner.next();
+         ```
 
-        Program ini memungkinkan pengguna untuk memasukkan tiga kata, dan kemudian mencetak kembali kata-kata tersebut dalam satu baris.
+    5. Cetak Kembali Kata-Kata:
+       - Setelah mengambil semua kata dari pengguna, program mencetak kembali ketiga kata tersebut dalam satu baris dengan menggunakan `System.out.println(word1 + " " + word2 + " " + word3)`.
+         ```java
+         System.out.println(word1 + " " + word2 + " " + word3);
+         ```
+
+    6. Penutup Objek Scanner:
+       - Terakhir, program menutup objek Scanner dengan `scanner.close()` untuk menghindari memory leak.
+         ```java
+         scanner.close();
+         ```
+
+    Dengan demikian, program ini memungkinkan pengguna untuk memasukkan tiga kata, dan kemudian mencetak kembali kata-kata tersebut dalam satu baris.
    </p>
        <p>
         <b> Tugas 1 ( BufferedReader ) </b>
@@ -627,32 +658,34 @@ Bahasa Pemograman Yang Digunakan dalam praktikum adalah Bahasa Pemograman Java d
     <b> Latihan 1</b>
     <p> Program ini merupakan program Java sederhana yang menghitung diskon berdasarkan total pembelian. Berikut adalah penjelasan singkatnya:</p>
     
-    1. Import Statement: Program ini menggunakan pustaka Scanner untuk membaca masukan dari pengguna, sehingga mengimpor java.util.Scanner.
-    
-    2. Deklarasi Variabel: Dua variabel dideklarasikan, yaitu total_pembelian dan diskon. Variabel diskon awalnya diinisialisasi dengan nilai 0.
-    
-    3. Input Pengguna: Program meminta pengguna untuk memasukkan total pembelian dengan menggunakan Scanner, dan nilai yang dimasukkan disimpan dalam variabel total_pembelian.
+      1. Program ini menggunakan pustaka Scanner untuk mengambil masukan dari pengguna, sehingga melakukan impor pustaka java.util.Scanner.
 
-    4. Struktur Percabangan (if): Program menggunakan struktur percabangan if untuk menguji apakah total_pembelian lebih besar atau sama dengan 5000. Jika iya, maka program akan menghitung diskon sebesar 10% dari total_pembelian dan menyimpannya dalam variabel diskon.
-    
-    5. Output Hasil: Program mencetak besarnya diskon ke layar dengan menggunakan perintah System.out.println().
-    
-     program ini akan menghitung diskon sebesar 10% dari total pembelian jika total pembelian lebih besar atau sama dengan 5000, dan kemudian mencetak besarnya diskon ke layar.
+     2. Dua variabel dideklarasikan dalam program ini, yaitu total_pembelian dan diskon. Variabel diskon diinisialisasi dengan nilai awal 0.
+
+     3. Pengguna diminta untuk memasukkan nilai total pembelian menggunakan objek Scanner, dan nilai yang dimasukkan disimpan dalam variabel total_pembelian.
+
+     4. Untuk menentukan diskon, program menggunakan struktur percabangan if untuk memeriksa apakah total_pembelian mencapai atau melebihi 5000. Jika kondisi ini terpenuhi, program menghitung diskon     
+        sebesar 10% dari total_pembelian dan menyimpannya dalam variabel diskon.
+
+     5. Hasil dari perhitungan diskon kemudian dicetak ke layar menggunakan perintah System.out.println().
+
+      Program ini dirancang untuk menghitung diskon sebesar 10% dari total pembelian jika total pembelian mencapai atau melebihi 5000, dan kemudian menampilkan besarnya diskon.
    <p>
         <b> Latihan 2 </b>
         <p>Program ini adalah program Java sederhana yang menghitung diskon berdasarkan total pembelian dengan menggunakan struktur percabangan if-else. Berikut adalah penjelasan singkatnya:
       
-      1. Import Statement: Program ini mengimpor pustaka Scanner untuk membaca masukan dari pengguna, sehingga mengimpor java.util.Scanner.
-     
-      2. Deklarasi Variabel: Dua variabel dideklarasikan, yaitu total_pembelian dan diskon. Variabel diskon awalnya diinisialisasi dengan nilai 0.
-  
-      3. Input Pengguna: Program meminta pengguna untuk memasukkan total pembelian dengan menggunakan Scanner, dan nilai yang dimasukkan disimpan dalam variabel total_pembelian.
-      
-      4. Struktur Percabangan (if-else): Program menggunakan struktur percabangan if-else untuk menguji apakah total_pembelian lebih besar atau sama dengan 5000. Jika iya, maka program akan menghitung diskon sebesar 10% dari total_pembelian dan menyimpannya dalam variabel diskon. Jika tidak, program akan menghitung diskon sebesar 20% dari total_pembelian dan menyimpannya dalam variabel diskon.
+      1. Program ini menggunakan pernyataan import untuk mengimpor pustaka Scanner dari java.util.Scanner, memungkinkan program membaca masukan dari pengguna.
 
-      5. Output Hasil: Program mencetak besarnya diskon ke layar dengan menggunakan perintah System.out.println().
+      2. Dalam program ini, dua variabel dideklarasikan: total_pembelian dan diskon. Variabel diskon awalnya diinisialisasi dengan nilai 0.
 
-       program ini akan menghitung diskon sebesar 10% dari total pembelian jika total pembelian lebih besar atau sama dengan 5000, dan menghitung diskon sebesar 20% jika total pembelian kurang dari 5000, kemudian mencetak besarnya diskon ke layar.
+      3. Pengguna diminta untuk memasukkan nilai total pembelian menggunakan objek Scanner, dan nilai yang dimasukkan disimpan dalam variabel total_pembelian.
+
+      4. Program menggunakan struktur percabangan if-else untuk menentukan besarnya diskon. Jika total_pembelian lebih besar atau sama dengan 5000, program akan menghitung diskon sebesar 10% dari 
+         total_pembelian dan menyimpannya dalam variabel diskon. Jika total_pembelian kurang dari 5000, program akan menghitung diskon sebesar 20% dan menyimpannya dalam variabel diskon.
+
+      5. Hasil perhitungan diskon kemudian dicetak ke layar menggunakan perintah System.out.println().
+
+      Program ini dirancang untuk menghitung diskon sebesar 10% dari total pembelian jika total pembelian lebih besar atau sama dengan 5000. Jika total pembelian kurang dari 5000, program akan menghitung       diskon sebesar 20%, dan hasilnya kemudian dicetak ke layar.
        
    </p>
       <p>
@@ -1230,139 +1263,134 @@ Bahasa Pemograman Yang Digunakan dalam praktikum adalah Bahasa Pemograman Java d
      Program ini membantu dalam memahami konsep inheritance di Java, di mana class Kedua dapat menggunakan dan memperluas fungsionalitas class Pertama. Konsep inheritance membantu dalam mengorganisir dan mengelola kode dengan cara yang efisien dan modular.
    <p>
         <b> Latihan 2 </b>
-        <p>Program ini juga merupakan contoh penggunaan inheritance dalam Java, di mana terdapat dua class utama: Person dan Employ.
+        <p>Program ini juga menunjukkan penerapan konsep inheritance dalam bahasa pemrograman Java, yang melibatkan dua kelas utama: Person dan Employee.
       
-      1.Class Person:
-        
-        - MMemiliki protected variable name dan age yang menyimpan informasi nama dan usia.
-        - Memiliki constructor untuk inisialisasi nilai name dan age.
-        - Memiliki method info() yang mencetak informasi nama dan usia.
-     
-      2. Class Employ:
-        
-        - Merupakan subclass dari class Person, sehingga mewarisi properti dan metode dari class Person.
-        - Memiliki private variable noKaryawan untuk menyimpan nomor karyawan.
-        - Memiliki constructor yang menggunakan constructor dari class Person menggunakan kata kunci super dan menambahkan inisialisasi untuk noKaryawan.
-        - Memiliki method info() yang mencetak informasi nomor karyawan dan memanggil method info() dari class Person menggunakan kata kunci super
+    1. **Kelas Person:**
+    - Memiliki variabel proteksi `name` dan `age` yang menyimpan informasi nama dan usia.
+    - Memiliki konstruktor untuk menginisialisasi nilai `name` dan `age`.
+    - Memiliki metode `info()` yang mencetak informasi nama dan usia.
 
-      3. Class Latihan2_Inheritance:
+    2. **Kelas Employee:**
+    - Merupakan subkelas dari kelas Person, sehingga mewarisi properti dan metode dari kelas Person.
+    - Memiliki variabel privat `employeeNumber` untuk menyimpan nomor karyawan.
+    - Memiliki konstruktor yang menggunakan konstruktor dari kelas Person dengan kata kunci `super` dan menambahkan inisialisasi untuk `employeeNumber`.
+    - Memiliki metode `info()` yang mencetak informasi nomor karyawan dan memanggil metode `info()` dari kelas Person menggunakan kata kunci `super`.
 
-      - Berisi metode main sebagai entry point program.
-      - Membuat objek dari class Employ (programer1) dengan memberikan nilai pada konstruktor.
-      - Memanggil method info() dari objek programer1, yang kemudian memanggil method info() dari class Employ dan class Person..
-      
-       Dengan menggunakan inheritance, class Employ dapat menggunakan dan memperluas fungsionalitas yang telah didefinisikan dalam class Person. Ini membantu dalam pengorganisasian kode dan mengurangi duplikasi, karena properti dan metode yang umum dapat ditempatkan di class induk (superclass). Program ini memberikan contoh konsep pewarisan dan penggunaan konstruktor superclass di dalam subclass.
+    3. **Kelas Latihan2_Inheritance:**
+    - Berisi metode `main` sebagai titik masuk program.
+    - Membuat objek dari kelas Employee (programmer1) dengan memberikan nilai pada konstruktor.
+    - Memanggil metode `info()` dari objek programmer1, yang kemudian memanggil metode `info()` dari kelas Employee dan kelas Person.
+    
+    Dengan penerapan inheritance, kelas Employee dapat memanfaatkan dan memperluas fungsionalitas yang telah ditentukan dalam kelas Person. Pendekatan ini membantu dalam strukturisasi kode dan mengurangi duplikasi, karena properti dan metode yang bersifat umum dapat ditempatkan di kelas induk (superclass). Program ini memberikan contoh konsep pewarisan dan penggunaan konstruktor superclass di dalam subclass.
    </p>
       <p>
         <b> Latihan 3</b>
         <p>Program ini merupakan contoh penggunaan inheritance dan overriding method dalam Java, di mana terdapat dua class utama: Hewan dan Latihan3_Inheritance.
           
-      1. Class Hewan:
-      
-        - Memiliki sebuah class dengan dua method, yaitu testClassMethod() yang bersifat static dan testInstanceMethod() yang tidak bersifat static.
-        - Method testClassMethod() mencetak teks yang menunjukkan bahwa itu adalah method class di Hewan.
-        - Method testInstanceMethod() mencetak teks yang menunjukkan bahwa itu adalah method instance di Hewan.
-     
-      2. Class Latihan3_Inheritance:
-        
-        - Merupakan subclass dari class Hewan, sehingga mewarisi properti dan metode dari class Hewan.
-        - Meng-overwrite method testClassMethod() dari class Hewan. Method ini sekarang mencetak teks yang menunjukkan bahwa itu adalah method class di Gajah.
-        - Memiliki method testInstanceMethod() yang tidak bersifat static dan mencetak teks yang menunjukkan bahwa itu adalah method instance di Gajah.
-        - Dalam metode main, membuat objek myLatihan3_Inheritance dari class Latihan3_Inheritance dan objek myHewan dari class Hewan.
-        - Memanggil method testClassMethod() dari class Hewan dan method testInstanceMethod() dari objek myHewan. Meskipun myHewan sebenarnya adalah objek Latihan3_Inheritance, karena tipe referensinya adalah Hewan, method yang dipanggil adalah versi dari class Hewan.
-      
-      Program ini membantu memahami konsep overriding method, di mana subclass dapat menyediakan implementasi yang berbeda untuk method yang telah didefinisikan di superclassnya. Hal ini memungkinkan fleksibilitas dalam penggunaan dan perluasan fungsionalitas class.
+      1. Kelas Hewan:
+        - Memiliki sebuah kelas dengan dua metode, yaitu `testClassMethod()` yang bersifat static dan `testInstanceMethod()` yang tidak bersifat static.
+        - Metode `testClassMethod()` mencetak teks yang menunjukkan bahwa itu adalah metode kelas di Hewan.
+        - Metode `testInstanceMethod()` mencetak teks yang menunjukkan bahwa itu adalah metode instans di Hewan.
+
+      2. Kelas Latihan3_Inheritance:
+        - Merupakan subclass dari kelas Hewan, sehingga mewarisi properti dan metode dari kelas Hewan.
+        - Menimpa metode `testClassMethod()` dari kelas Hewan. Metode ini sekarang mencetak teks yang menunjukkan bahwa itu adalah metode kelas di Gajah.
+        - Memiliki metode `testInstanceMethod()` yang tidak bersifat static dan mencetak teks yang menunjukkan bahwa itu adalah metode instans di Gajah.
+        - Dalam metode `main`, membuat objek `myLatihan3_Inheritance` dari kelas Latihan3_Inheritance dan objek `myHewan` dari kelas Hewan.
+        - Memanggil metode `testClassMethod()` dari kelas Hewan dan metode `testInstanceMethod()` dari objek `myHewan`. Meskipun `myHewan` sebenarnya adalah objek Latihan3_Inheritance, karena tipe     
+          referensinya adalah Hewan, metode yang dipanggil adalah versi dari kelas Hewan.
+
+      Program ini membantu memahami konsep overriding metode, di mana subclass dapat memberikan implementasi yang berbeda untuk metode yang telah didefinisikan di superclassnya. Hal ini memberikan fleksibilitas dalam penggunaan dan perluasan fungsionalitas kelas.
    </p>
    <p>
         <b> Latihan 4  </b>
-        <p>Program ini merupakan contoh penggunaan inheritance dan overriding method dalam Java, di mana terdapat dua class utama: A dan B.
+        <p>Program ini adalah contoh penggunaan inheritance dan overriding method dalam Java, di mana terdapat dua kelas utama: A dan B..
       
-      1. Class A::
-          
-          - Memiliki private variable a dan method untuk mengatur (setA) dan mengambil (getA) nilai variable tersebut.
-          - Memiliki method tampilkanNilai() yang mencetak nilai variable a.
+     Program ini adalah contoh penggunaan inheritance dan overriding method dalam Java, di mana terdapat dua kelas utama: A dan B.
 
-      2. Class B:
+    1. Kelas A:
+       - Memiliki variabel privat a dan metode untuk mengatur (setA) dan mengambil (getA) nilai variabel tersebut.
+       - Memiliki metode tampilkanNilai() yang mencetak nilai variabel a.
 
-          - Merupakan subclass dari class A, sehingga mewarisi properti dan metode dari class A.
-          - Memiliki private variable b dan method untuk mengatur (setB) dan mengambil (getB) nilai variable tersebut.
-          - Melakukan overriding terhadap method tampilkanNilai() yang ada di class A. Method ini sekarang mencetak nilai variable a dari superclass (super.tampilkanNilai()) dan nilai variable b dari class B.
+    2. Kelas B:
+       - Merupakan subclass dari kelas A, sehingga mewarisi properti dan metode dari kelas A.
+       - Memiliki variabel privat b dan metode untuk mengatur (setB) dan mengambil (getB) nilai variabel tersebut.
+       - Melakukan overriding terhadap metode tampilkanNilai() yang ada di kelas A. Metode ini sekarang mencetak nilai variabel a dari superclass (super.tampilkanNilai()) dan nilai variabel b dari kelas 
+         B.
 
-      2. Class Latihan4_Inheritance:
-        
-        - Berisi metode main sebagai entry point program.
-        - Membuat objek dari class B (obj).
-        - Mengatur nilai variable a dan b menggunakan method setA dan setB.
-        - Memanggil method tampilkanNilai() dari objek obj, yang sebenarnya memanggil versi overriding dari method tersebut yang ada di class B.
-        
-       Program ini membantu memahami konsep overriding method, di mana subclass dapat menyediakan implementasi yang berbeda untuk method yang telah didefinisikan di superclassnya. Dalam hal ini, class B mengganti implementasi method tampilkanNilai() dari class A.
+    3. Kelas Latihan4_Inheritance:
+       - Berisi metode main sebagai entry point program.
+       - Membuat objek dari kelas B (obj).
+       - Mengatur nilai variabel a dan b menggunakan metode setA dan setB.
+       - Memanggil metode tampilkanNilai() dari objek obj, yang sebenarnya memanggil versi overriding dari metode tersebut yang ada di kelas B.
+
+    Program ini membantu memahami konsep overriding metode, di mana subclass dapat menyediakan implementasi yang berbeda untuk metode yang telah didefinisikan di superclassnya. Dalam hal ini, kelas B mengganti implementasi metode tampilkanNilai() dari kelas A.
    </p>
    <p>
         <b> Latihan 5  </b>
-        <p>Program ini adalah contoh sederhana penggunaan class dan objek dalam bahasa pemrograman Java untuk merepresentasikan suatu bus. Program ini terdiri dari dua class utama: Latihan5_Inheritance dan Bus.
+        <p>Program ini merupakan contoh sederhana penggunaan kelas dan objek dalam bahasa pemrograman Java untuk merepresentasikan suatu bus. Program ini terdiri dari dua kelas utama: Latihan5_Inheritance dan Bus.
       
-      1. Class Bus:
-          
-          - Memiliki dua public variable: penumpang untuk menyimpan jumlah penumpang pada bus dan maxPenumpang untuk menyimpan kapasitas maksimum penumpang pada bus.
-          - Memiliki method cetak() yang mencetak informasi jumlah penumpang saat ini dan kapasitas maksimum penumpang pada bus.
+     Program ini adalah contoh sederhana penggunaan class dan objek dalam bahasa pemrograman Java untuk merepresentasikan suatu bus. Berikut adalah penjelasan singkatnya:
 
-      2. Class Latihan5_Inheritance:
+    1. Class Bus:
+       - Memiliki dua variabel publik: `penumpang` untuk menyimpan jumlah penumpang pada bus dan `maxPenumpang` untuk menyimpan kapasitas maksimum penumpang pada bus.
+       - Memiliki method `cetak()` yang mencetak informasi jumlah penumpang saat ini dan kapasitas maksimum penumpang pada bus.
 
-          - Berisi metode main sebagai entry point program.
-          - Membuat objek busMini dari class Bus.
-          - Menetapkan nilai untuk penumpang dan maxPenumpang pada objek busMini.
-          - Memanggil method cetak() pada objek busMini untuk mencetak informasi jumlah penumpang saat ini dan kapasitas maksimum penumpang pada bus.
-          - Menambah dan mengurangkan jumlah penumpang pada objek busMini dan memanggil method cetak() setiap kali untuk mencetak informasi terkini.
+    2. Class Latihan5_Inheritance:
+       - Berisi metode `main` sebagai entry point program.
+       - Membuat objek `busMini` dari class Bus.
+       - Menetapkan nilai untuk `penumpang` dan `maxPenumpang` pada objek `busMini`.
+       - Memanggil method `cetak()` pada objek `busMini` untuk mencetak informasi jumlah penumpang saat ini dan kapasitas maksimum penumpang pada bus.
+       - Menambah dan mengurangkan jumlah penumpang pada objek `busMini` dan memanggil method `cetak()` setiap kali untuk mencetak informasi terkini.
 
-       Program ini memberikan gambaran sederhana tentang bagaimana class dan objek dapat digunakan untuk merepresentasikan dan mengelola data terkait bus, seperti jumlah penumpang dan kapasitas maksimum penumpang.
+      Program ini memberikan gambaran sederhana tentang bagaimana class dan objek dapat digunakan untuk merepresentasikan dan mengelola data terkait bus, seperti jumlah penumpang dan kapasitas maksimum penumpang.
    </p>
     <p>
         <b> Latihan 6  </b>
         <p>Program ini merupakan contoh penggunaan class, objek, dan konstruktor dalam Java untuk merepresentasikan suatu bus. Program ini terdiri dari dua class utama: Latihan6_Inheritance dan Bus2.
       
-      1. Class Bus2:
-          
-          - Memiliki dua private variable: penumpang untuk menyimpan jumlah penumpang pada bus dan maxPenumpang untuk menyimpan kapasitas maksimum penumpang pada bus.
-          - Memiliki konstruktor Bus2(int maxPenumpang) yang digunakan untuk menginisialisasi nilai maxPenumpang pada saat pembuatan objek dan mengatur penumpang awal menjadi 0.
-          - Memiliki method addPenumpang(int penumpang) untuk menambah jumlah penumpang pada bus. Jika penambahan melebihi kapasitas maksimum, program mencetak pesan kesalahan; jika tidak, jumlah penumpang diperbarui.
-          - Memiliki method cetak() untuk mencetak informasi jumlah penumpang saat ini dan kapasitas maksimum penumpang pada bus.
+      Program ini adalah contoh sederhana penggunaan class, objek, dan konstruktor dalam bahasa pemrograman Java untuk merepresentasikan suatu bus. Berikut adalah penjelasan singkatnya:
 
-      2. Class Latihan6_Inheritance:
+    1. Class Bus2:
+       - Memiliki dua variabel privat: `penumpang` untuk menyimpan jumlah penumpang pada bus dan `maxPenumpang` untuk menyimpan kapasitas maksimum penumpang pada bus.
+       - Memiliki konstruktor `Bus2(int maxPenumpang)` yang digunakan untuk menginisialisasi nilai `maxPenumpang` pada saat pembuatan objek dan mengatur `penumpang` awal menjadi 0.
+       - Memiliki method `addPenumpang(int penumpang)` untuk menambah jumlah penumpang pada bus. Jika penambahan melebihi kapasitas maksimum, program mencetak pesan kesalahan; jika tidak, jumlah 
+         penumpang diperbarui.
+       - Memiliki method `cetak()` untuk mencetak informasi jumlah penumpang saat ini dan kapasitas maksimum penumpang pada bus.
 
-          - Berisi metode main sebagai entry point program.
-          - Membuat objek busBesar dari class Bus2 dengan kapasitas maksimum penumpang sebanyak 40.
-          - Memanggil method cetak() pada objek busBesar untuk mencetak informasi awal jumlah penumpang dan kapasitas maksimum penumpang pada bus.
-          - Menambah dan mengurangkan jumlah penumpang pada objek busBesar menggunakan method addPenumpang() dan memanggil method cetak() setiap kali untuk mencetak informasi terkini.
+    2. Class Latihan6_Inheritance:
+       - Berisi metode `main` sebagai entry point program.
+       - Membuat objek `busBesar` dari class Bus2 dengan kapasitas maksimum penumpang sebanyak 40.
+       - Memanggil method `cetak()` pada objek `busBesar` untuk mencetak informasi awal jumlah penumpang dan kapasitas maksimum penumpang pada bus.
+       - Menambah dan mengurangkan jumlah penumpang pada objek `busBesar` menggunakan method `addPenumpang()` dan memanggil method `cetak()` setiap kali untuk mencetak informasi terkini.
 
-       Program ini memberikan gambaran sederhana tentang bagaimana class, objek, dan konstruktor dapat digunakan untuk merepresentasikan dan mengelola data terkait bus, seperti jumlah penumpang dan kapasitas maksimum penumpang. Selain itu, program ini juga menggambarkan penggunaan konstruktor untuk menginisialisasi objek saat pembuatan.
+    Program ini memberikan gambaran sederhana tentang bagaimana class, objek, dan konstruktor dapat digunakan untuk merepresentasikan dan mengelola data terkait bus, seperti jumlah penumpang dan kapasitas maksimum penumpang. Selain itu, program ini juga menggambarkan penggunaan konstruktor untuk menginisialisasi objek saat pembuatan.
    </p>
    <b> 12. JOBSHEET 12</b>
   <p>
     <b> Latihan 1</b>
     <p> Program ini merupakan contoh sederhana penggunaan inheritance (warisan) dalam Java dengan tiga class utama: LATIHAN1_Inheritance, Kendaraan, RodaDua, dan RodaEmpat..</p>
     
-    1.Class LATIHAN1_Inheritance:
-     
-      - Berisi metode main sebagai entry point program.
-      - Membuat objek sepeda dari class RodaDua dan objek mobil dari class RodaEmpat.
-      - Memanggil method tampilkanHarga() dan hargaAkhir() pada kedua objek tersebut.
-    
+ Program ini adalah contoh sederhana konsep inheritance dalam Java, di mana terdapat tiga class utama: `LATIHAN1_Inheritance`, `Kendaraan`, `RodaDua`, dan `RodaEmpat`. Berikut adalah penjelasan singkatnya:
+
+    1. Class LATIHAN1_Inheritance:
+       - Berisi metode `main` sebagai entry point program.
+       - Membuat objek `sepeda` dari class `RodaDua` dan objek `mobil` dari class `RodaEmpat`.
+       - Memanggil method `tampilkanHarga()` dan `hargaAkhir()` pada kedua objek tersebut.
+
     2. Class Kendaraan:
-    
-      - Memiliki variable hargaDasar dengan nilai default 100000.
-      - Memiliki method tampilkanHarga() yang mencetak harga dasar kendaraan.
+       - Memiliki variable `hargaDasar` dengan nilai default 100000.
+       - Memiliki method `tampilkanHarga()` yang mencetak harga dasar kendaraan.
 
     3. Class RodaDua:
-
-      - Merupakan subclass dari class Kendaraan, sehingga mewarisi properti dan metode dari class Kendaraan.
-      - Memiliki variable tambahan NaikHargaKe dan method hargaAkhir(). Method ini menaikkan harga dasar sepeda berdasarkan nilai NaikHargaKe dan mencetak harga akhirnya
+       - Merupakan subclass dari class `Kendaraan`, sehingga mewarisi properti dan metode dari class `Kendaraan`.
+       - Memiliki variable tambahan `NaikHargaKe` dan method `hargaAkhir()`. Method ini menaikkan harga dasar sepeda berdasarkan nilai `NaikHargaKe` dan mencetak harga akhirnya.
 
     4. Class RodaEmpat:
-    
-      - Merupakan subclass dari class Kendaraan, sehingga mewarisi properti dan metode dari class Kendaraan.
-      - Memiliki variable tambahan NaikHargaKe dan method hargaAkhir(). Method ini menaikkan harga dasar mobil berdasarkan nilai NaikHargaKe (meskipun dalam contoh ini nilainya tetap) dan mencetak harga akhirnya.
-      
-     Program ini memberikan contoh sederhana konsep inheritance, di mana class RodaDua dan RodaEmpat mewarisi properti dan metode dari class Kendaraan. Selain itu, program ini juga menunjukkan konsep penggunaan overriding method dalam subclass untuk mengubah perilaku metode yang diwarisi dari superclass.
+       - Merupakan subclass dari class `Kendaraan`, sehingga mewarisi properti dan metode dari class `Kendaraan`.
+       - Memiliki variable tambahan `NaikHargaKe` dan method `hargaAkhir()`. Method ini menaikkan harga dasar mobil berdasarkan nilai `NaikHargaKe` (meskipun dalam contoh ini nilainya tetap) dan mencetak          harga akhirnya.
+
+    Program ini memberikan contoh sederhana konsep inheritance, di mana class `RodaDua` dan `RodaEmpat` mewarisi properti dan metode dari class `Kendaraan`. Selain itu, program ini juga menunjukkan konsep penggunaan overriding method dalam subclass (`RodaDua` dan `RodaEmpat`) untuk mengubah perilaku metode yang diwarisi dari superclass (`Kendaraan`).
    <p>
         <b> Latihan 2 </b>
         <p>Program ini merupakan contoh penggunaan polimorfisme statis atau compile-time polymorphism dalam Java, di mana terdapat dua method dengan nama yang sama, tetapi memiliki parameter yang berbeda. Program ini terdiri dari dua class utama: LATIHAN2_PolymorphismStatic dan CompileTime.
@@ -1450,28 +1478,24 @@ Bahasa Pemograman Yang Digunakan dalam praktikum adalah Bahasa Pemograman Java d
    </p>
     <p>
         <b> Latihan 6  </b>
-        <p>Program ini merupakan contoh penggunaan encapsulation dalam Java. Encapsulation adalah salah satu prinsip dalam pemrograman berorientasi objek yang mengelilingi ide bahwa variabel anggota suatu class harus disembunyikan dan hanya dapat diakses atau dimodifikasi menggunakan metode (getter dan setter) dari class tersebut.
-      
+        <p>Program ini adalah contoh penggunaan konsep encapsulation dalam Java, di mana terdapat dua class utama: `LATIHAN6_Encapsulation` dan `EncapsulationBuah`. Berikut adalah penjelasan singkatnya:
+
       1. Class LATIHAN6_Encapsulation:
-          
-          - Berisi metode main sebagai entry point program.
-          - Membuat objek Apel dari class EncapsulationBuah menggunakan constructor dengan parameter.
-          - Menggunakan getter untuk mendapatkan nilai nama, harga, dan warna buah, dan mencetak informasi awal.
-          - Menggunakan setter untuk mengubah harga dan warna buah.
-          - Menggunakan kembali getter untuk mendapatkan nilai yang telah diubah dan mencetak informasi setelah di-update.
+         - Berisi metode `main` sebagai entry point program.
+         - Membuat objek `Apel` dari class `EncapsulationBuah` menggunakan constructor dengan parameter.
+         - Menggunakan getter untuk mendapatkan nilai `nama`, `harga`, dan `warna` buah, dan mencetak informasi awal.
+         - Menggunakan setter untuk mengubah `harga` dan `warna` buah.
+         - Menggunakan kembali getter untuk mendapatkan nilai yang telah diubah dan mencetak informasi setelah di-update.
 
       2. Class EncapsulationBuah:
+         - Merupakan class yang menerapkan konsep encapsulation.
+         - Memiliki tiga private data members: `namaBuah`, `hargaBuah`, dan `warnaBuah`.
+         - Menggunakan constructor untuk menginisialisasi nilai-nilai tersebut saat objek dibuat.
+         - Menggunakan setter untuk mengubah nilai dari ketiga variabel tersebut.
+         - Menggunakan getter untuk mendapatkan nilai dari ketiga variabel tersebut.
 
-          - Merupakan class yang menerapkan konsep encapsulation.
-          - Memiliki tiga private data members: namaBuah, hargaBuah, dan warnaBuah.
-          - Menggunakan constructor untuk menginisialisasi nilai-nilai tersebut saat objek dibuat.
-          - Menggunakan setter untuk mengubah nilai dari ketiga variabel tersebut.
-          - Menggunakan getter untuk mendapatkan nilai dari ketiga variabel tersebut.
-
-       Program ini menunjukkan cara encapsulation membantu dalam menyembunyikan implementasi internal suatu class dan memungkinkan akses kontrol yang lebih baik. Dengan menggunakan setter dan getter, program dapat mengontrol cara nilai-nilai ini diubah dan diakses, sehingga memperkuat konsep privasi dan keamanan dalam suatu class.
+    Program ini menunjukkan cara encapsulation membantu dalam menyembunyikan implementasi internal suatu class dan memungkinkan akses kontrol yang lebih baik. Dengan menggunakan setter dan getter, program dapat mengontrol cara nilai-nilai ini diubah dan diakses, sehingga memperkuat konsep privasi dan keamanan dalam suatu class.
    </p>
    
-## Contact us
+## SELESAI
 
-[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/galuhyeager23) [<img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/GaluhGarha71919) [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/galuh-garhadi-5714a7240/) 
-<p align="center"><b> ©2023 Raden Galuh Garhadi Cakranata </p></b>
