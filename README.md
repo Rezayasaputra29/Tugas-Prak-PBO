@@ -1,6 +1,5 @@
 
-![Header](https://i.pinimg.com/564x/4b/5f/74/4b5f746744e9aeea98f430c5afcc50c5.jpg "Header")
-
+![alt text](https://github.com/Rezayasaputra29/Tugas-Prak-PBO/blob/main/gambar%20readme/images.jpeg?raw=true)
 
 
 ## TUGAS LAPORAN PRATIKUM!  [![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)[![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
